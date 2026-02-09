@@ -1,0 +1,92 @@
+[
+  {
+    "id": "ops-101",
+    "title": "Ops 101: Systems that Scale",
+    "category": "Operations",
+    "level": "Beginner",
+    "minutes": 85,
+    "thumb": "./images/hero-course.jpg",
+    "desc": "Build the backbone: SOPs, station maps, and daily checks.",
+    "lessons": [
+      "SOP mindset",
+      "Station map",
+      "Opening checklist",
+      "Closing checklist"
+    ]
+  },
+  {
+    "id": "menu-psych",
+    "title": "Menu Psychology & Pricing",
+    "category": "Finance",
+    "level": "Intermediate",
+    "minutes": 72,
+    "thumb": "./images/course-2.jpg",
+    "desc": "Price with confidence using anchors and star items.",
+    "lessons": [
+      "Food cost basics",
+      "Anchors & decoys",
+      "Bundling",
+      "Price test"
+    ]
+  },
+  {
+    "id": "marketing-sprint",
+    "title": "Marketing Sprint for Restaurants",
+    "category": "Start",
+    "level": "Beginner",
+    "minutes": 64,
+    "thumb": "./images/course-3.jpg",
+    "desc": "Launch campaigns in 7 days with a simple content machine.",
+    "lessons": [
+      "Offer + hook",
+      "Content plan",
+      "UGC play",
+      "Local ads"
+    ]
+  },
+  {
+    "id": "labor-cogs",
+    "title": "Labor & COGS Control Dashboard",
+    "category": "Finance",
+    "level": "Advanced",
+    "minutes": 96,
+    "thumb": "./images/course-4.jpg",
+    "desc": "Track labor and COGS weekly to protect margin.",
+    "lessons": [
+      "Labor %",
+      "COGS variance",
+      "Waste",
+      "Supplier negotiation"
+    ]
+  },
+  {
+    "id": "service-design",
+    "title": "Service Design: The Guest Journey",
+    "category": "Operations",
+    "level": "Intermediate",
+    "minutes": 78,
+    "thumb": "./images/course-5.jpg",
+    "desc": "Design moments that make people come back.",
+    "lessons": [
+      "Journey map",
+      "Moments of truth",
+      "Recovery scripts",
+      "Consistency"
+    ]
+  },
+  {
+    "id": "opening-playbook",
+    "title": "Opening Playbook: Day 1 to Day 30",
+    "category": "Start",
+    "level": "Beginner",
+    "minutes": 90,
+    "thumb": "./images/course-6.jpg",
+    "desc": "A step-by-step plan to open strong and avoid chaos.",
+    "lessons": [
+      "Pre-open",
+      "Soft launch",
+      "Training",
+      "First 30 days"
+    ]
+  }
+]

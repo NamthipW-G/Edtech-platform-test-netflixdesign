@@ -1505,7 +1505,7 @@ ul { list-style: none; }
 
   /* Hero */
   .hero { min-height: 100svh; }
-  .hero-content { padding: 0 16px; }
+  .hero-content { padding: 0 16px; top: 200px; }
   .hero-badge { margin-bottom: 24px; padding: 6px 14px; }
   .hero-badge-text { font-size: 10px; letter-spacing: 1px; }
   .hero-subtitle { margin-bottom: 32px; }

@@ -393,6 +393,7 @@ ul { list-style: none; }
   letter-spacing: 2px;
   text-transform: uppercase;
   color: var(--primary);
+   top: 200px;
 }
 
 .hero-title {
